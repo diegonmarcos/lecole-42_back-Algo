@@ -5,6 +5,7 @@
   "label": "lecole-42_back-Algo",
   "code": "5.1.1.1",
   "kind": "repo",
+  "variant": "repo",
   "description": "where dead-ends are just recursive detours and you will try to overcome stack overflows with a `ulimit - s unlimited`",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/lecole-42_back-Algo",
